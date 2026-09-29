@@ -1,7 +1,5 @@
-# ⚙️ MARK LV (55)
-### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
-
-> 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@FatihMakes)**
+# ⚙️ Advance Jarvis (Mark LV)
+### The Ultimate Cross-Platform Personal AI Assistant — By Ashwani Rai (@ashurai1)
 
 A real-time voice AI that can hear, see, speak, and control your computer — on any OS. Supports Windows, macOS, and Linux. Built on the Gemini Live API for native audio streaming, delivering zero subscriptions and total digital autonomy.
 
@@ -274,8 +272,8 @@ It is held in memory only, deliberately: writing it to disk would make a fresh l
 ## ⚡ Quick Start
 
 ```bash
-git clone https://github.com/FatihMakes/Mark-LV.git
-cd Mark-LV
+git clone https://github.com/ashurai1/Advance-Jarvis.git
+cd Advance-Jarvis
 python setup.py        # installs deps for YOUR OS + the browser automation engine
 python main.py
 ```
@@ -380,19 +378,20 @@ Your voice is streamed to Google's Gemini Live API while a session is open; that
 
 ---
 
-## ⚠️ License
+## 📄 License
 
-Personal and non-commercial use only.
-Licensed under **[Creative Commons BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)**.
+This project is licensed under the **[Apache License 2.0](LICENSE)**. See the [LICENSE](LICENSE) file for the full license text.
 
 ---
 
-## 👤 Connect with the Creator
+## 👤 Creator & Maintainer
 
-Engineered by a developer building a real-world JARVIS-style assistant.
-⭐ **Star the repository to support the journey to Mark 100.**
+Developed & maintained by **Ashwani Rai** ([@ashurai1](https://github.com/ashurai1)).
 
 | Platform | Link |
 | --- | --- |
-| YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
-| Instagram | [@fatihmakes](https://www.instagram.com/fatihmakes) |
+| GitHub | [@ashurai1](https://github.com/ashurai1) |
+| Repository | [Advance-Jarvis](https://github.com/ashurai1/Advance-Jarvis) |
+| Email | [raiashwani151104@gmail.com](mailto:raiashwani151104@gmail.com) |
+
+> *Credits: Base architecture and concept inspired by FatihMakes.*
